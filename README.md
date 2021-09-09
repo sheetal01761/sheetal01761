@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sheetal Sharma</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheetal01761&label=Profile%20views&color=0e75b6&style=flat" alt="sheetal01761" /> </p>
 
+- <h1 align="center">Hi 👋, I'm Sheetal Sharma</h1>
 - 🌱 I’m currently learning **Flutter**
-
-- 📫 How to reach me **sharmasheetal01761@gmail.com**
 - 😄 Pronouns: She/Her
+- 📫 How to reach me **sharmasheetal01761@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sheetal01761&show_icons=true&locale=en" alt="sheetal01761" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sheetal01761&" alt="sheetal01761" /></p>
-
